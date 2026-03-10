@@ -47,7 +47,7 @@ This project applies a multi-stage NLP pipeline to semi-structured interview dat
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/healthcare-nlp-analysis.git
+git clone https://github.com/Sabaakhvn/healthcare-nlp-analysis.git
 cd healthcare-nlp-analysis
 
 # Create and activate a virtual environment (recommended)
